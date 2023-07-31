@@ -1,0 +1,118 @@
+18:41:39.746 [main] INFO  test_classes.RESTApiTests - Status Code is 200
+18:41:40.074 [main] INFO  test_classes.RESTApiTests - Response body is valid Json
+18:41:40.436 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.439 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.442 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.443 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.444 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.445 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.445 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.445 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.446 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.446 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.446 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.448 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.448 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.448 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.449 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.449 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.449 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.449 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.450 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.451 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.451 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.451 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.452 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.452 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.452 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.453 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.454 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.455 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.455 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.456 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.456 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.457 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.457 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.458 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.458 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.459 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.459 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.460 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.460 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.460 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.460 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.461 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.461 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.462 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.462 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.462 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.463 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.463 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.466 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.466 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.467 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.467 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.467 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.468 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.468 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.469 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.469 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.469 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.470 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.470 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.470 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.472 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.474 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.474 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.475 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.475 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.475 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.476 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.476 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.476 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.477 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.477 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.477 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.478 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.478 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.479 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.479 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.479 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.480 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.480 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.480 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.481 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.481 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.482 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.483 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.483 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.483 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.483 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.483 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.484 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.484 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.484 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.485 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.485 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.485 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.486 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.486 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.487 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.488 [main] INFO  test_classes.RESTApiTests - List is sorted ascending by id
+18:41:40.753 [main] INFO  test_classes.RESTApiTests - Status code is 200
+18:41:41.031 [main] INFO  test_classes.RESTApiTests - User id is equal to expected user id
+18:41:41.031 [main] INFO  test_classes.RESTApiTests - Id is equal to expected id
+18:41:41.031 [main] INFO  test_classes.RESTApiTests - Title is not empty
+18:41:41.032 [main] INFO  test_classes.RESTApiTests - Body is not empty
+18:41:41.277 [main] INFO  test_classes.RESTApiTests - Status code is 404
+18:41:41.558 [main] INFO  test_classes.RESTApiTests - Response body is empty
+18:41:42.653 [main] INFO  test_classes.RESTApiTests - Status code is 201
+18:41:43.490 [main] INFO  test_classes.RESTApiTests - Id is present in response
+18:41:43.490 [main] INFO  test_classes.RESTApiTests - UserId match data from request
+18:41:43.491 [main] INFO  test_classes.RESTApiTests - Title match data from request
+18:41:43.491 [main] INFO  test_classes.RESTApiTests - Body match data from request
+18:41:44.264 [main] INFO  test_classes.RESTApiTests - Status code is 200
+18:41:44.519 [main] INFO  test_classes.RESTApiTests - Response body is valid JSON
+18:41:44.797 [main] INFO  test_classes.RESTApiTests - Actual user data matches expected user data
+18:41:45.583 [main] INFO  test_classes.RESTApiTests - Status code is 200
+18:41:45.859 [main] INFO  test_classes.RESTApiTests - Actual user data matches expected user data

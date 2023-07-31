@@ -1,0 +1,31 @@
+{
+  "test1": {
+    "expectedUserId": 10,
+    "expectedId": 99,
+    "responseBodyType": "application/json"
+  },
+  "test2": {
+    "expectedId": 150
+  },
+  "test3": {
+    "expectedUserId": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "street": "Skiles Walks",
+    "suite": "Suite 351",
+    "city": "Roscoeview",
+    "zipcode": "33263",
+    "lat": "-31.8129",
+    "lng": "62.5342",
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "companyname": "Keebler LLC",
+    "catchPhrase": "User-centric fault-tolerant solution",
+    "bs": "revolutionize end-to-end systems"
+  },
+  "newPost": {
+  	"id": 1,
+  	"userId": 0
+  }
+}
